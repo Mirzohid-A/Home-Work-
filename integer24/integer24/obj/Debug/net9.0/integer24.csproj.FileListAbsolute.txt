@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer24\integer24\bin\Debug\net9.0\integer24.exe
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer24\integer24\bin\Debug\net9.0\integer24.deps.json
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer24\integer24\bin\Debug\net9.0\integer24.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer24\integer24\bin\Debug\net9.0\integer24.dll
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer24\integer24\bin\Debug\net9.0\integer24.pdb
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer24\integer24\obj\Debug\net9.0\integer24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer24\integer24\obj\Debug\net9.0\integer24.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer24\integer24\obj\Debug\net9.0\integer24.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer24\integer24\obj\Debug\net9.0\integer24.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer24\integer24\obj\Debug\net9.0\integer24.dll
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer24\integer24\obj\Debug\net9.0\refint\integer24.dll
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer24\integer24\obj\Debug\net9.0\integer24.pdb
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer24\integer24\obj\Debug\net9.0\integer24.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer24\integer24\obj\Debug\net9.0\ref\integer24.dll

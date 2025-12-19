@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer25\integer25\bin\Debug\net9.0\integer25.exe
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer25\integer25\bin\Debug\net9.0\integer25.deps.json
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer25\integer25\bin\Debug\net9.0\integer25.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer25\integer25\bin\Debug\net9.0\integer25.dll
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer25\integer25\bin\Debug\net9.0\integer25.pdb
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer25\integer25\obj\Debug\net9.0\integer25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer25\integer25\obj\Debug\net9.0\integer25.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer25\integer25\obj\Debug\net9.0\integer25.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer25\integer25\obj\Debug\net9.0\integer25.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer25\integer25\obj\Debug\net9.0\integer25.dll
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer25\integer25\obj\Debug\net9.0\refint\integer25.dll
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer25\integer25\obj\Debug\net9.0\integer25.pdb
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer25\integer25\obj\Debug\net9.0\integer25.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer25\integer25\obj\Debug\net9.0\ref\integer25.dll

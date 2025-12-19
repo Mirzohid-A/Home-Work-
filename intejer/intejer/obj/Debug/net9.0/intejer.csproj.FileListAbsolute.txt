@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\intejer\intejer\bin\Debug\net9.0\intejer.exe
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\intejer\intejer\bin\Debug\net9.0\intejer.deps.json
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\intejer\intejer\bin\Debug\net9.0\intejer.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\intejer\intejer\bin\Debug\net9.0\intejer.dll
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\intejer\intejer\bin\Debug\net9.0\intejer.pdb
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\intejer\intejer\obj\Debug\net9.0\intejer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\intejer\intejer\obj\Debug\net9.0\intejer.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\intejer\intejer\obj\Debug\net9.0\intejer.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\intejer\intejer\obj\Debug\net9.0\intejer.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\intejer\intejer\obj\Debug\net9.0\intejer.dll
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\intejer\intejer\obj\Debug\net9.0\refint\intejer.dll
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\intejer\intejer\obj\Debug\net9.0\intejer.pdb
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\intejer\intejer\obj\Debug\net9.0\intejer.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\intejer\intejer\obj\Debug\net9.0\ref\intejer.dll
