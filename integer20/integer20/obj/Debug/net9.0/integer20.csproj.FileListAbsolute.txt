@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer20\integer20\bin\Debug\net9.0\integer20.exe
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer20\integer20\bin\Debug\net9.0\integer20.deps.json
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer20\integer20\bin\Debug\net9.0\integer20.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer20\integer20\bin\Debug\net9.0\integer20.dll
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer20\integer20\bin\Debug\net9.0\integer20.pdb
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer20\integer20\obj\Debug\net9.0\integer20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer20\integer20\obj\Debug\net9.0\integer20.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer20\integer20\obj\Debug\net9.0\integer20.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer20\integer20\obj\Debug\net9.0\integer20.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer20\integer20\obj\Debug\net9.0\integer20.dll
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer20\integer20\obj\Debug\net9.0\refint\integer20.dll
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer20\integer20\obj\Debug\net9.0\integer20.pdb
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer20\integer20\obj\Debug\net9.0\integer20.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\integer20\integer20\obj\Debug\net9.0\ref\integer20.dll

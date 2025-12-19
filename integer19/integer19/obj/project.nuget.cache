@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "/8DzI8ffKoI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Абрамян c#\\integer19\\integer19\\integer19.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.305\\microsoft.net.sdk.compilers.toolset.9.0.305.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Произошла ошибка при получении данных уязвимости пакета: Не удалось загрузить индекс службы для источника https://api.nuget.org/v3/index.json."
+    }
+  ]
+}
