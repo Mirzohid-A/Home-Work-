@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\Begin7\Begin7\bin\Debug\net9.0\Begin7.exe
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\Begin7\Begin7\bin\Debug\net9.0\Begin7.deps.json
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\Begin7\Begin7\bin\Debug\net9.0\Begin7.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\Begin7\Begin7\bin\Debug\net9.0\Begin7.dll
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\Begin7\Begin7\bin\Debug\net9.0\Begin7.pdb
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\Begin7\Begin7\obj\Debug\net9.0\Begin7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\Begin7\Begin7\obj\Debug\net9.0\Begin7.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\Begin7\Begin7\obj\Debug\net9.0\Begin7.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\Begin7\Begin7\obj\Debug\net9.0\Begin7.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\Begin7\Begin7\obj\Debug\net9.0\Begin7.dll
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\Begin7\Begin7\obj\Debug\net9.0\refint\Begin7.dll
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\Begin7\Begin7\obj\Debug\net9.0\Begin7.pdb
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\Begin7\Begin7\obj\Debug\net9.0\Begin7.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\Абрамян c#\Begin7\Begin7\obj\Debug\net9.0\ref\Begin7.dll
