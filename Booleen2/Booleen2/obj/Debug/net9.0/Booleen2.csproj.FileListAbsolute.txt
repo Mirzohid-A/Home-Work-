@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Рабочий стол\Course\practive\Booleen2\Booleen2\obj\Debug\net9.0\Booleen2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\Course\practive\Booleen2\Booleen2\obj\Debug\net9.0\Booleen2.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Course\practive\Booleen2\Booleen2\obj\Debug\net9.0\Booleen2.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\Course\practive\Booleen2\Booleen2\obj\Debug\net9.0\Booleen2.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Course\practive\Booleen2\Booleen2\bin\Debug\net9.0\Booleen2.exe
+C:\Users\User\OneDrive\Рабочий стол\Course\practive\Booleen2\Booleen2\bin\Debug\net9.0\Booleen2.deps.json
+C:\Users\User\OneDrive\Рабочий стол\Course\practive\Booleen2\Booleen2\bin\Debug\net9.0\Booleen2.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\Course\practive\Booleen2\Booleen2\bin\Debug\net9.0\Booleen2.dll
+C:\Users\User\OneDrive\Рабочий стол\Course\practive\Booleen2\Booleen2\bin\Debug\net9.0\Booleen2.pdb
+C:\Users\User\OneDrive\Рабочий стол\Course\practive\Booleen2\Booleen2\obj\Debug\net9.0\Booleen2.dll
+C:\Users\User\OneDrive\Рабочий стол\Course\practive\Booleen2\Booleen2\obj\Debug\net9.0\refint\Booleen2.dll
+C:\Users\User\OneDrive\Рабочий стол\Course\practive\Booleen2\Booleen2\obj\Debug\net9.0\Booleen2.pdb
+C:\Users\User\OneDrive\Рабочий стол\Course\practive\Booleen2\Booleen2\obj\Debug\net9.0\Booleen2.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\Course\practive\Booleen2\Booleen2\obj\Debug\net9.0\ref\Booleen2.dll
