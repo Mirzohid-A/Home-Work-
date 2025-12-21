@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\Boolean5\Boolean5\bin\Debug\net9.0\Boolean5.exe
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\Boolean5\Boolean5\bin\Debug\net9.0\Boolean5.deps.json
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\Boolean5\Boolean5\bin\Debug\net9.0\Boolean5.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\Boolean5\Boolean5\bin\Debug\net9.0\Boolean5.dll
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\Boolean5\Boolean5\bin\Debug\net9.0\Boolean5.pdb
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\Boolean5\Boolean5\obj\Debug\net9.0\Boolean5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\Boolean5\Boolean5\obj\Debug\net9.0\Boolean5.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\Boolean5\Boolean5\obj\Debug\net9.0\Boolean5.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\Boolean5\Boolean5\obj\Debug\net9.0\Boolean5.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\Boolean5\Boolean5\obj\Debug\net9.0\Boolean5.dll
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\Boolean5\Boolean5\obj\Debug\net9.0\refint\Boolean5.dll
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\Boolean5\Boolean5\obj\Debug\net9.0\Boolean5.pdb
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\Boolean5\Boolean5\obj\Debug\net9.0\Boolean5.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\Boolean5\Boolean5\obj\Debug\net9.0\ref\Boolean5.dll
