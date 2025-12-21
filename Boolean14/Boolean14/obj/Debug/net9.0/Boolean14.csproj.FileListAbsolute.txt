@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\Boolean14\Boolean14\bin\Debug\net9.0\Boolean14.exe
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\Boolean14\Boolean14\bin\Debug\net9.0\Boolean14.deps.json
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\Boolean14\Boolean14\bin\Debug\net9.0\Boolean14.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\Boolean14\Boolean14\bin\Debug\net9.0\Boolean14.dll
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\Boolean14\Boolean14\bin\Debug\net9.0\Boolean14.pdb
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\Boolean14\Boolean14\obj\Debug\net9.0\Boolean14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\Boolean14\Boolean14\obj\Debug\net9.0\Boolean14.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\Boolean14\Boolean14\obj\Debug\net9.0\Boolean14.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\Boolean14\Boolean14\obj\Debug\net9.0\Boolean14.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\Boolean14\Boolean14\obj\Debug\net9.0\Boolean14.dll
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\Boolean14\Boolean14\obj\Debug\net9.0\refint\Boolean14.dll
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\Boolean14\Boolean14\obj\Debug\net9.0\Boolean14.pdb
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\Boolean14\Boolean14\obj\Debug\net9.0\Boolean14.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\Boolean14\Boolean14\obj\Debug\net9.0\ref\Boolean14.dll
