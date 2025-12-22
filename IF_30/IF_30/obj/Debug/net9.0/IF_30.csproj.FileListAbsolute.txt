@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\IF_30\IF_30\bin\Debug\net9.0\IF_30.exe
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\IF_30\IF_30\bin\Debug\net9.0\IF_30.deps.json
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\IF_30\IF_30\bin\Debug\net9.0\IF_30.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\IF_30\IF_30\bin\Debug\net9.0\IF_30.dll
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\IF_30\IF_30\bin\Debug\net9.0\IF_30.pdb
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\IF_30\IF_30\obj\Debug\net9.0\IF_30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\IF_30\IF_30\obj\Debug\net9.0\IF_30.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\IF_30\IF_30\obj\Debug\net9.0\IF_30.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\IF_30\IF_30\obj\Debug\net9.0\IF_30.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\IF_30\IF_30\obj\Debug\net9.0\IF_30.dll
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\IF_30\IF_30\obj\Debug\net9.0\refint\IF_30.dll
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\IF_30\IF_30\obj\Debug\net9.0\IF_30.pdb
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\IF_30\IF_30\obj\Debug\net9.0\IF_30.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\IF_30\IF_30\obj\Debug\net9.0\ref\IF_30.dll
