@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\IF_9\IF_9\bin\Debug\net9.0\IF_9.exe
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\IF_9\IF_9\bin\Debug\net9.0\IF_9.deps.json
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\IF_9\IF_9\bin\Debug\net9.0\IF_9.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\IF_9\IF_9\bin\Debug\net9.0\IF_9.dll
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\IF_9\IF_9\bin\Debug\net9.0\IF_9.pdb
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\IF_9\IF_9\obj\Debug\net9.0\IF_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\IF_9\IF_9\obj\Debug\net9.0\IF_9.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\IF_9\IF_9\obj\Debug\net9.0\IF_9.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\IF_9\IF_9\obj\Debug\net9.0\IF_9.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\IF_9\IF_9\obj\Debug\net9.0\IF_9.dll
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\IF_9\IF_9\obj\Debug\net9.0\refint\IF_9.dll
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\IF_9\IF_9\obj\Debug\net9.0\IF_9.pdb
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\IF_9\IF_9\obj\Debug\net9.0\IF_9.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\Course\Абрамян c#\IF_9\IF_9\obj\Debug\net9.0\ref\IF_9.dll
